@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FragmentTabs</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab1">Horror</string>
+    <string name="tab2">Komedi</string>
+    <string name="tab3">Ilmiah</string>
+    <string name="tab4">Persahabatan</string>
+    <string name="tab5">Aksi</string>
+
+    <string name="play">play</string>
+    <string name="back">back</string>
+
+    <string name="thenun">thenun</string>
+    <string name="mrbean">mrbean</string>
+    <string name="interstellar">interstellar</string>
+    <string name="thecreator">thecreator</string>
+    <string name="catbob">catbob</string>
+
+    <string name="action">Mission: Impossible II (2000) \n
+        Agen rahasia Ethan Hunt dan timnya dikirim ke Sydney, Australia, untuk menemukan dan memusanahkan sebuah virus rekayasa genetika mematikan yang dijuluki dengan kode (Chimera).</string>
+    <string name="komedi">Mr. Bean\'s Holiday (2007) \n
+        Mr. Bean memenangkan tiket liburan ke Cannes, dan tanpa sadar, telah memisahkan seorang bocah dari ayahnya. Dengan segala cara, kini ia berusaha untuk membantu keduanya agar dapat bersama kembali.</string>
+    <string name="romance">The Notebook (2004) \n
+        Film ini tentang seorang pria tua membacakan untuk seorang wanita tua. Mengikuti kehidupan dua kekasih, Allie dan Noah. Tapi mereka dipisahkan oleh orang tua Allie yang tidak setuju dengan Noah.</string>
+    <string name="horror">The Nun II \n
+        Berlatar tahun 1956, bermula dari pembunuhan seorang pendeta, Suster Irene (Taissa Farmiga) sekali lagi berhadapan dengan kekuatan jahat yang sangat besar, Valak sang biarawati iblis demi kedamaian hidupnya serta orang-orang di sekitarnya.</string>
+    <string name="ilmiah">Interstellar (2014) \n
+        Sebuah tim penjelajah antar galaksi harus melewati lubang cacing dan terjebak di dimensi waktu ruang angkasa dalam upaya untuk menjamin kelangsungan hidup umat manusia di planet bumi.</string>
+    <string name="sahabat">A Street Cat Named Bob \n
+        Didasarkan pada kisah nyata pengamen London James Bowen (Luke Treadway). James sedang berjuang untuk mengatasi kecanduan heroin.</string>
+    <string name="aksi">The Creator
+        Film ini mengisahkan tentang perang yang terjadi antara umat manusia dan AI. Seorang mantan agen pasukan khusus pun direkrut untuk mencari dan membunuh “the creator” atau sang pencipta. Ia diketahui telah membuat senjata misterius yang dapat mengakhiri perang dengan menghancurkan umat manusia</string>
+</resources>
