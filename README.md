@@ -4,12 +4,9 @@ Masukkan project disini:
 
 # Tutorial (di readme & pdf)
 
-## 1. HelloApps2
+## HelloApps2
 
-### hasilnya
+https://github.com/Kudav5/Android-UAS/assets/96816477/a52be7b4-413e-47e5-a009-aeb6454f827b
 
-
-## 2. FragmentTab
-
-### hasilnya
-https://github.com/Kudav5/Android-UAS/assets/96816477/66d99080-a322-4bd9-a146-86ea52ac1108
+### maps
+https://github.com/Kudav5/Android-UAS/assets/96816477/e1df9bfb-8f9f-4deb-8676-c437581e0b9b
