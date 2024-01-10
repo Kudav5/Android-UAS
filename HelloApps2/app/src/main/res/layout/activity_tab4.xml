@@ -27,7 +27,7 @@
         android:id="@+id/playcatbob"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="690sp"
+        android:layout_marginTop="390sp"
         android:layout_marginLeft="325sp"
         android:text="@string/play"
         android:clickable="true"
