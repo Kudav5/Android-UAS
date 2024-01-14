@@ -1,6 +1,8 @@
-| First Header  | Second Header |
+| Nama  | Kumara Davin Valerian |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| NIM  | 312210192  |
+| Kelas  | TI.22.A.2  |
+| Matkul  | Pemrograman Mobile 1  |
 
 
 ## video HelloApps2
