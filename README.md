@@ -6,7 +6,7 @@
 
 # Tutorial
 ## Note:
-- HelloApps2 adalah nama projek saya
+- HelloApps2 adalah nama projek
 - menggunakan bluestack5 sebagai emulator
 
 ## video HelloApps2
